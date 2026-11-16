@@ -1,8 +1,8 @@
 {
-  "versionName": "1.8.4",
-  "versionCode": 27,
-  "apkUrl": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/LeMur-Keyboard-1.8.4.apk",
-  "apkSizeBytes": 2162242,
-  "sha256": "29d58ad8250240a799f60f9f3767ec74ac615cf00be03001f317af191941aaf4",
-  "releaseNotes": "LeMur Keyboard 1.8.4\n\n• После отмены T9-исправления клавиатура больше не исправляет это же слово автоматически при следующем пробеле.\n• Проверка обновлений запрашивает свежий release feed без использования устаревшего HTTP-кэша.\n• В фоновой проверке обновлений также отключено кеширование данных о версии."
+  "versionName": "1.8.5",
+  "versionCode": 28,
+  "apkUrl": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/LeMur-Keyboard-1.8.5.apk",
+  "apkSizeBytes": 2162738,
+  "sha256": "a04ef7068d4df725ae31079fd7479fff84e048531d74059dc80fd80c685306ea",
+  "releaseNotes": "LeMur Keyboard 1.8.5\n\n• Автоматическая проверка обновлений каждые 10 минут, пока приложение открыто; при входе проверка запускается автоматически.\n• При обнаружении новой версии показывается полноэкранное окно «Доступна новая версия» с кнопкой скачивания.\n• В фоне Android выполняет проверку с минимальным интервалом WorkManager - 15 минут (ограничение платформы).\n• Исправлен порядок обновления: сначала скачивается APK, после завершения появляется отдельная кнопка «Установить обновление». Установщик больше не открывается сам по завершении загрузки."
 }
