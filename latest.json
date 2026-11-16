@@ -2,7 +2,7 @@
   "versionName": "1.7.0",
   "versionCode": 20,
   "apkUrl": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/LeMur-Keyboard-1.7.0.apk",
-  "apkSizeBytes": 1801235,
-  "sha256": "7b6eb8f8e5d76a166aa6de13f6da52b3e0038848662032ae545b23f2d9acd67b",
+  "apkSizeBytes": 1805399,
+  "sha256": "cb64a8cb4bcc07145682b978598c7fd57e9ebfd4efd989ca67385b4cf0703736",
   "releaseNotes": "LeMur Keyboard 1.7.0\n\nИзбранные фразы:\n- Добавлена отдельная панель избранного на экране фраз клавиатуры.\n- Фразы можно добавлять и убирать из избранного в редакторе категорий.\n- Список избранного хранится локально на устройстве.\n\nПерсонализация:\n- Добавлены настройки тем, вибрации и звука нажатий.\n\nПеременные шаблонов пока не включены."
 }
