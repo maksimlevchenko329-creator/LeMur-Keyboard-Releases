@@ -1,8 +1,8 @@
 {
-  "versionName": "1.8.1",
-  "versionCode": 24,
-  "apkUrl": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/LeMur-Keyboard-1.8.1.apk",
-  "apkSizeBytes": 2160310,
-  "sha256": "1d7c0f294f170313768cb2bcea97c4ffb776fede7df0d25a2ee05a496d700b9d",
+  "versionName": "1.8.0",
+  "versionCode": 23,
+  "apkUrl": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/LeMur-Keyboard-1.8.0.apk",
+  "apkSizeBytes": 2160118,
+  "sha256": "4156a1ca789f121265fae41583cbfebe5da208401d21cdd79cb1aedf23740605",
   "releaseNotes": "LeMur Keyboard 1.8.0\n\n• Улучшена система подсказок: продолжение текущего слова и предложения следующего слова на основе ранее введённых сочетаний.\n• Добавлено автоисправление вероятных опечаток при вводе пробела (Т9).\n• Подсказки и автоисправление настраиваются независимо.\n• При выборе подсказки слово вставляется вместе с пробелом.\n• Исправлена контрастность символов в светлой клавиатуре.\n• Добавлена тема клавиатуры «По умолчанию»: автоматически выбирает светлую или тёмную по теме устройства.\n• Добавлена тема приложения: «По умолчанию», «Светлая», «Тёмная».\n• Сохранены существующие фразы, словари, избранное, резервные копии и обновления."
 }
