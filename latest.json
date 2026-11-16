@@ -1,6 +1,8 @@
 {
-  "versionName": "1.6.9",
-  "versionCode": 19,
-  "apkUrl": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/LeMur-Keyboard-1.6.9.apk",
-  "releaseNotes": "• Добавлена проверка обновлений в настройках.\n• Показываются заметки к выпуску и доступна загрузка APK.\n• Исправления командной строки и поведения клавиатуры в альбомной ориентации.\n• Список категорий получил фиксированную высоту и прокрутку.\n• Настроена автоматическая публикация APK в репозиторий релизов."
+  "versionName": "1.7.0",
+  "versionCode": 20,
+  "apkUrl": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/LeMur-Keyboard-1.7.0.apk",
+  "apkSizeBytes": 1802127,
+  "sha256": "0f30f55b23f9c5e9cebb35c7f38afc68732cee13d9d35a74e057f02575be016b",
+  "releaseNotes": "LeMur Keyboard 1.7.0\n\nИзбранные фразы:\n- Добавлена отдельная панель избранного на экране фраз клавиатуры.\n- Фразы можно добавлять и убирать из избранного в редакторе категорий.\n- Список избранного хранится локально на устройстве.\n\nПерсонализация:\n- Добавлены настройки тем, вибрации и звука нажатий.\n\nПеременные шаблонов пока не включены."
 }
