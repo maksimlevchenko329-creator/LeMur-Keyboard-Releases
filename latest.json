@@ -1,8 +1,8 @@
 {
-  "versionName": "1.8.3",
-  "versionCode": 26,
-  "apkUrl": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/LeMur-Keyboard-1.8.3.apk",
-  "apkSizeBytes": 2162030,
-  "sha256": "3dfe1e05692a028a73c1938c1ac43979fd0836cea9d20bd09ad1f397de57fc5f",
-  "releaseNotes": "LeMur Keyboard 1.8.3\n\n• Исправлено отображение заглавных букв во втором ряду клавиатуры при включённом Caps Lock.\n• При нажатии клавиша получает яркую обводку, которая остаётся видимой всё время нажатия.\n• В командной строке на первой странице символов знак «=» теперь расположен на отдельной клавише вместо обратной косой черты."
+  "versionName": "1.8.4",
+  "versionCode": 27,
+  "apkUrl": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/LeMur-Keyboard-1.8.4.apk",
+  "apkSizeBytes": 2162242,
+  "sha256": "29d58ad8250240a799f60f9f3767ec74ac615cf00be03001f317af191941aaf4",
+  "releaseNotes": "LeMur Keyboard 1.8.4\n\n• После отмены T9-исправления клавиатура больше не исправляет это же слово автоматически при следующем пробеле.\n• Проверка обновлений запрашивает свежий release feed без использования устаревшего HTTP-кэша.\n• В фоновой проверке обновлений также отключено кеширование данных о версии."
 }
