@@ -2,7 +2,7 @@
   "versionName": "1.8.7",
   "versionCode": 38,
   "apkUrl": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/LeMur-Keyboard-1.8.7.apk",
-  "apkSizeBytes": 2176890,
-  "sha256": "98c04f92a50a6f72260d425faaad728cef3bbb2c79feffce1f7f4e1331ec63c5",
+  "apkSizeBytes": 2180066,
+  "sha256": "12bd00932956281678f5758d6a1343798de0cf1ebbd764393b28543682e16712",
   "releaseNotes": "LeMur Keyboard 1.8.7\n\n• Исправлен ввод заглавных букв при заполнении переменных.\n• Значения переменных сохраняются при переключении языка, регистра и символьной раскладки.\n• Backspace корректно удаляет выделенный текст в поле ввода переменной.\n• Сохранены переменные фраз, последовательная отправка и исправления стабильности IME."
 }
