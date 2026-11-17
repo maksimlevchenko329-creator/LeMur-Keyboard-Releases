@@ -1,8 +1,8 @@
 {
-  "versionName": "1.8.6-RC3",
-  "versionCode": 36,
-  "apkUrl": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/LeMur-Keyboard-1.8.6-RC3.apk",
+  "versionName": "1.8.6-RC4",
+  "versionCode": 37,
+  "apkUrl": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/LeMur-Keyboard-1.8.6-RC4.apk",
   "apkSizeBytes": 2175178,
-  "sha256": "8e7bf00a30ac97c917fd0cabb38929a38a887f371d928863cd39b509f6c82cb2",
+  "sha256": "2370b925d0980e2d6e9d614c26274339afdd26ca2377731b5a3f39e166aa5213",
   "releaseNotes": "LeMur Keyboard 1.8.6-RC3\n\n• Возвращены переменные фраз в редакторе: кнопка «Добавить переменную» вставляет {{имя}} в позицию курсора.\n• При отправке одной фразы значения запрашиваются по очереди; повторения одного имени используют одно значение.\n• При запуске категории все уникальные переменные собираются заранее один раз и применяются ко всем фразам.\n• Команды write, write out и write down используют общий набор значений для всей последовательности.\n• Ввод переменных встроен в клавиатуру: название и поле ввода сверху, ❌ отмена и ✅ подтверждение рядом с пробелом.\n• Отмена запроса прекращает текущую отправку; сохранённые фразы и настройки не изменяются.\n• Сохранены исправления стабильности IME и асинхронная работа словаря из 1.8.6-RC2."
 }
