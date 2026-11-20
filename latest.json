@@ -3,6 +3,6 @@
   "versionCode": 51,
   "apkUrl": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/LeMur-Keyboard-1.12.3.apk",
   "apkSizeBytes": 3226966,
-  "sha256": "6e79ae858349405cc0c7f68dbad7ff5a47f741957893e06ba1015a2eb43de870",
+  "sha256": "4fcdfe4ba71f0807f146af81ca9202a7a565a23081e43689f7bd210fd374fa3b",
   "releaseNotes": "LeMur Keyboard 1.12.3\n\n• Добавлены подсказки альтернативных символов над клавишами букв, цифр и знаков.\n• Расширено меню символов при долгом нажатии: варианты можно выбирать движением пальца.\n• Обновлён логотип раздела проверки обновлений.\n\nВерсия приложения: 1.12.3 (versionCode 51)."
 }
