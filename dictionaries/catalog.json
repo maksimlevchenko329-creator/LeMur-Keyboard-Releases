@@ -1,0 +1,219 @@
+{
+  "schema": 1,
+  "project": "LeMur Keyboard",
+  "updatedAt": "2026-11-20",
+  "languages": [
+    {
+      "code": "ru",
+      "name": "Русский",
+      "topics": [
+        {
+          "id": "ru-general",
+          "dataKey": "general",
+          "title": "Общий словарь",
+          "description": "Частотные слова для повседневного набора.",
+          "url": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/dictionaries/ru.json",
+          "wordCount": 104,
+          "version": 1,
+          "sha256": ""
+        },
+        {
+          "id": "ru-everyday",
+          "dataKey": "everyday",
+          "title": "Повседневная речь",
+          "description": "Дом, общение, покупки, еда и транспорт.",
+          "url": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/dictionaries/ru.json",
+          "wordCount": 95,
+          "version": 1,
+          "sha256": ""
+        },
+        {
+          "id": "ru-technology",
+          "dataKey": "technology",
+          "title": "Технологии и IT",
+          "description": "Компьютеры, программирование, интернет и устройства.",
+          "url": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/dictionaries/ru.json",
+          "wordCount": 82,
+          "version": 1,
+          "sha256": ""
+        },
+        {
+          "id": "ru-music",
+          "dataKey": "music",
+          "title": "Музыка",
+          "description": "Музыкальные термины, инструменты, жанры и исполнительство.",
+          "url": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/dictionaries/ru.json",
+          "wordCount": 81,
+          "version": 1,
+          "sha256": ""
+        },
+        {
+          "id": "ru-science",
+          "dataKey": "science",
+          "title": "Наука",
+          "description": "Естественные науки, математика и исследования.",
+          "url": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/dictionaries/ru.json",
+          "wordCount": 86,
+          "version": 1,
+          "sha256": ""
+        },
+        {
+          "id": "ru-geography",
+          "dataKey": "geography",
+          "title": "География",
+          "description": "Рельеф, климат, страны, города и путешествия.",
+          "url": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/dictionaries/ru.json",
+          "wordCount": 85,
+          "version": 1,
+          "sha256": ""
+        },
+        {
+          "id": "ru-gaming",
+          "dataKey": "gaming",
+          "title": "Игры",
+          "description": "Видеоигры, жанры, механики и сетевой гейминг.",
+          "url": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/dictionaries/ru.json",
+          "wordCount": 80,
+          "version": 1,
+          "sha256": ""
+        },
+        {
+          "id": "ru-arts",
+          "dataKey": "arts",
+          "title": "Искусство и культура",
+          "description": "Живопись, литература, театр, кино и творчество.",
+          "url": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/dictionaries/ru.json",
+          "wordCount": 79,
+          "version": 1,
+          "sha256": ""
+        },
+        {
+          "id": "ru-education",
+          "dataKey": "education",
+          "title": "Образование",
+          "description": "Школа, обучение, предметы, экзамены и учебные материалы.",
+          "url": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/dictionaries/ru.json",
+          "wordCount": 89,
+          "version": 1,
+          "sha256": ""
+        },
+        {
+          "id": "ru-nature",
+          "dataKey": "nature",
+          "title": "Природа и животные",
+          "description": "Животный мир, растения, экология и окружающая среда.",
+          "url": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/dictionaries/ru.json",
+          "wordCount": 93,
+          "version": 1,
+          "sha256": ""
+        }
+      ]
+    },
+    {
+      "code": "en",
+      "name": "English",
+      "topics": [
+        {
+          "id": "en-general",
+          "dataKey": "general",
+          "title": "General",
+          "description": "Common words for everyday typing.",
+          "url": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/dictionaries/en.json",
+          "wordCount": 102,
+          "version": 1,
+          "sha256": ""
+        },
+        {
+          "id": "en-everyday",
+          "dataKey": "everyday",
+          "title": "Everyday",
+          "description": "Home, conversation, shopping, food and transport.",
+          "url": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/dictionaries/en.json",
+          "wordCount": 95,
+          "version": 1,
+          "sha256": ""
+        },
+        {
+          "id": "en-technology",
+          "dataKey": "technology",
+          "title": "Technology & IT",
+          "description": "Computers, programming, internet and devices.",
+          "url": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/dictionaries/en.json",
+          "wordCount": 82,
+          "version": 1,
+          "sha256": ""
+        },
+        {
+          "id": "en-music",
+          "dataKey": "music",
+          "title": "Music",
+          "description": "Musical terms, instruments, genres and performance.",
+          "url": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/dictionaries/en.json",
+          "wordCount": 79,
+          "version": 1,
+          "sha256": ""
+        },
+        {
+          "id": "en-science",
+          "dataKey": "science",
+          "title": "Science",
+          "description": "Natural sciences, mathematics and research.",
+          "url": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/dictionaries/en.json",
+          "wordCount": 86,
+          "version": 1,
+          "sha256": ""
+        },
+        {
+          "id": "en-geography",
+          "dataKey": "geography",
+          "title": "Geography",
+          "description": "Landforms, climate, countries, cities and travel.",
+          "url": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/dictionaries/en.json",
+          "wordCount": 85,
+          "version": 1,
+          "sha256": ""
+        },
+        {
+          "id": "en-gaming",
+          "dataKey": "gaming",
+          "title": "Gaming",
+          "description": "Video games, genres, mechanics and online gaming.",
+          "url": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/dictionaries/en.json",
+          "wordCount": 80,
+          "version": 1,
+          "sha256": ""
+        },
+        {
+          "id": "en-arts",
+          "dataKey": "arts",
+          "title": "Arts & Culture",
+          "description": "Painting, literature, theatre, cinema and creativity.",
+          "url": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/dictionaries/en.json",
+          "wordCount": 78,
+          "version": 1,
+          "sha256": ""
+        },
+        {
+          "id": "en-education",
+          "dataKey": "education",
+          "title": "Education",
+          "description": "School, learning, subjects, exams and study materials.",
+          "url": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/dictionaries/en.json",
+          "wordCount": 85,
+          "version": 1,
+          "sha256": ""
+        },
+        {
+          "id": "en-nature",
+          "dataKey": "nature",
+          "title": "Nature & Animals",
+          "description": "Wildlife, plants, ecology and the environment.",
+          "url": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/dictionaries/en.json",
+          "wordCount": 92,
+          "version": 1,
+          "sha256": ""
+        }
+      ]
+    }
+  ]
+}
