@@ -1,8 +1,8 @@
 {
-  "versionName": "1.12.0",
-  "versionCode": 48,
-  "apkUrl": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/LeMur-Keyboard-1.12.0.apk",
-  "apkSizeBytes": 2341458,
-  "sha256": "82569195a56216841d6a691ec42b89659c39abeffae340c2a7b37db7c5bc81b7",
-  "releaseNotes": "LeMur Keyboard 1.12.0\n\n- Added downloadable Russian and English thematic dictionaries from a public catalog.\n- Added language and topic selection, live download progress, file validation, and installation status.\n- Moved dictionary management actions above the word list.\n- Optimized bulk dictionary imports and made remote dictionary installation idempotent."
+  "versionName": "1.12.1",
+  "versionCode": 49,
+  "apkUrl": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/LeMur-Keyboard-1.12.1.apk",
+  "apkSizeBytes": 2341650,
+  "sha256": "2a4cd8a4881f2778f450e82c1ff4afa71f4ead8d604bcb4a0f2d83d6e1518275",
+  "releaseNotes": "LeMur Keyboard 1.12.1\n\n• Исправлен долгий нажим на «е»: теперь вводится «ё» (или «Ё» при включённом регистре).\n• Восстановлена работа долгого нажатия для альтернативных символов и клавиши «ь» → «ъ».\n• Исправлена визуальная подсветка клавиш при нажатии.\n• Сохранён обычный ввод нажатием и LeMur Glide со следом траектории.\n• Сохранены русская и английская раскладки, подсказки, автокоррекция, история буфера обмена, шаблоны и фразы, переменные и последовательная отправка.\n\nВозможности версии 1.12.0:\n• Добавлены загружаемые тематические словари на русском и английском языках.\n• Добавлены выбор языка и темы, отображение прогресса загрузки и проверка файлов.\n• Оптимизирован импорт словарей и повторная установка без дублирования частот.\n\nВозможности версии 1.11.0:\n• Добавлена первая версия LeMur Glide - ввод слов проведением пальца по буквам.\n• Добавлен голубой след траектории.\n• Если подходящего слова в словаре нет, вводится последовательность букв с траектории.\n• Обычный ввод нажатием сохранён.\n\nВерсия приложения: 1.12.1 (versionCode 49)."
 }
