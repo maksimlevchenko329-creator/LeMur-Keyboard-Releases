@@ -1,8 +1,8 @@
 {
-  "versionName": "1.9.4",
-  "versionCode": 43,
-  "apkUrl": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/LeMur-Keyboard-1.9.4.apk",
-  "apkSizeBytes": 10839533,
-  "sha256": "a8df70aca6cecf717dcf7506cec5d63e041350995e094e25c1ca3a63c8067cd1",
+  "versionName": "1.10.0",
+  "versionCode": 44,
+  "apkUrl": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/LeMur-Keyboard-1.10.0.apk",
+  "apkSizeBytes": 2327538,
+  "sha256": "e163132f1b7d7ad1bac6f9b48886a54f92579e64c1cdec16e74d4f46a023707b",
   "releaseNotes": "LeMur Keyboard 1.9.1\n\n• Добавлена полноэкранная рекламная система.\n• Видеореклама: первый просмотр со звуком, повторное воспроизведение без звука; после первого просмотра доступно закрытие.\n• Добавлена кнопка перехода в Telegram-ресурс рекламной кампании.\n• Реклама при создании категории, добавлении фразы и ручной проверке обновлений с заданными интервалами показа.\n• Сохранены функции версии 1.9.0: команды write, управление словарём, автокоррекция, раскладки и системная установка обновлений.\n\nПримечание: фотоматериалы рекламной кампании пока не включены в эту сборку."
 }
