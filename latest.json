@@ -1,8 +1,8 @@
 {
-  "versionName": "1.10.2",
-  "versionCode": 46,
-  "apkUrl": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/LeMur-Keyboard-1.10.2.apk",
-  "apkSizeBytes": 2328230,
-  "sha256": "f6ae97cb321a579b9f3ba9d9fb28fff792b7a09a02c2aef8c63059a4d7fe6941",
-  "releaseNotes": "LeMur Keyboard 1.10.2\n\n• Явно включено отображение LeMur Keyboard в системном переключателе способов ввода Android.\n• Сохранён русский системный subtype (ru_RU) из версии 1.10.1.\n• Версия приложения: 1.10.2 (versionCode 46).\n\nПримечание: параметр showInInputMethodPicker является подсказкой системе; отображение на устройствах с оболочками производителей требует проверки."
+  "versionName": "1.11.0",
+  "versionCode": 47,
+  "apkUrl": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/LeMur-Keyboard-1.11.0.apk",
+  "apkSizeBytes": 2331882,
+  "sha256": "cb70dc2751a3de36e29e73e5218e009441f2c2ce8aa9effe465fbe084c6124f2",
+  "releaseNotes": "LeMur Keyboard 1.11.0\n\n• Добавлена первая версия LeMur Glide - свайп-ввод проведением пальца по буквам.\n• Добавлено отображение голубого следа траектории.\n• После отпускания пальца приложение сопоставляет последовательность пройденных букв со словами локального словаря.\n• Если уверенного совпадения нет, вводится последовательность букв с траектории.\n• Обычный ввод нажатием сохранён.\n• Поддерживаются русские и английские слова из словаря LeMur.\n• Версия приложения: 1.11.0 (versionCode 47).\n\nПримечание: это первая версия распознавания. Точность зависит от наполненности словаря и траектории; контекстное ранжирование и более продвинутый геометрический алгоритм планируются отдельно."
 }
