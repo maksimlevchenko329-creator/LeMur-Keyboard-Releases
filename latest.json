@@ -1,8 +1,8 @@
 {
-  "versionName": "2.0.0",
-  "versionCode": 59,
-  "apkUrl": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/LeMur-Keyboard-2.0.0.apk",
-  "apkSizeBytes": 3249634,
-  "sha256": "d5e680cecc6805b552a45e30e8a03927820e63a7adb140dfed30c3c3bd13e9ad",
-  "releaseNotes": "LeMur Keyboard 2.0.0\n\n- Добавлены отдельные формы «Предложения» и «Поддержка».\n- Обращения отправляются напрямую в соответствующие каналы Discord.\n- В форме поддержки можно выбрать категорию обращения.\n- Контакт для ответа необязателен.\n- В обращение добавляются версия приложения и модель устройства."
+  "versionName": "2.1.0",
+  "versionCode": 60,
+  "apkUrl": "https://raw.githubusercontent.com/maksimlevchenko329-creator/LeMur-Keyboard-Releases/main/LeMur-Keyboard-2.1.0.apk",
+  "apkSizeBytes": 3249986,
+  "sha256": "e626d103a6cbb9b68ea8df2247fea4e6c4c2deef2414008eaf9c23143ca506cd",
+  "releaseNotes": "LeMur Keyboard 2.1.0\n\n- Подключены отдельные Discord-каналы для предложений и обращений в поддержку.\n- Отправка форм выполняется напрямую через Discord Webhook.\n- Добавлена обязательная проверка настройки обоих каналов перед публикацией релизной сборки.\n- Исправлена проверка опубликованного описания обновления: серверные метаданные сверяются с исходным файлом."
 }
